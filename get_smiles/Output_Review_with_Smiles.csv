@@ -1,0 +1,11 @@
+ID,Compound,CAS_Registry_Number,PubChem,Smiles,Smiles_from_CompoundNames
+com_1,"1-(3,4-dichlorophenyl)-3-methylurea",3567-62-2,https://pubchem.ncbi.nlm.nih.gov/compound/1-_3_4-Dichlorophenyl_-3-methylurea,CNC(=O)Nc1ccc(Cl)c(Cl)c1,CNC(=O)Nc1ccc(Cl)c(Cl)c1
+com_2,Phenol,108-95-2,https://pubchem.ncbi.nlm.nih.gov/compound/996,Oc1ccccc1,Oc1ccccc1
+com_3,Testosterone,58-22-0,https://pubchem.ncbi.nlm.nih.gov/compound/6013,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O
+com_4,Tetrachloroethylene,127-18-4,https://pubchem.ncbi.nlm.nih.gov/compound/31373,ClC(Cl)=C(Cl)Cl,ClC(Cl)=C(Cl)Cl
+com_5,Tetraconazole,112281-77-3,https://pubchem.ncbi.nlm.nih.gov/compound/80277,FC(F)C(F)(F)OCC(Cn1cncn1)c2ccc(Cl)cc2Cl,FC(F)C(F)(F)OCC(Cn1cncn1)c2ccc(Cl)cc2Cl
+com_6,Tetradifon,116-29-0,https://pubchem.ncbi.nlm.nih.gov/compound/8305,Clc1ccc(cc1)[S](=O)(=O)c2cc(Cl)c(Cl)cc2Cl,Clc1ccc(cc1)[S](=O)(=O)c2cc(Cl)c(Cl)cc2Cl
+com_7,Theophylline,58-55-9,https://pubchem.ncbi.nlm.nih.gov/compound/2153,CN1C(=O)N(C)c2nc[nH]c2C1=O,CN1C(=O)N(C)c2nc[nH]c2C1=O
+com_8,Thiabendazole,148-79-8,https://pubchem.ncbi.nlm.nih.gov/compound/5430,[nH]1c2ccccc2nc1c3cscn3,[nH]1c2ccccc2nc1c3cscn3
+com_9,Tramadol,,https://pubchem.ncbi.nlm.nih.gov/compound/33741,No CAS number,[Cl-].COc1cccc(c1)[C@@]2(O)CCCC[C@@H]2CN(C)C.[H+]
+com_10,trans-Chlordane,5103-74-2,https://pubchem.ncbi.nlm.nih.gov/compound/45356234,ClC1CC2C(C1Cl)C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,ClC1CC2C(C1Cl)C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl
